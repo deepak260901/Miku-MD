@@ -28,6 +28,7 @@
 ## ✧✧ Temporarily not Maintained anymore. Thank You so much guys for your love and support 💕. 
 </br></br>
   
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/deepak260901/Miku-MD)
   
 ## ✧✧ Setup before deploy (Optional):
 ### Go to `config.js`
